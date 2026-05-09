@@ -195,7 +195,10 @@ java filename
 
 # 👨‍💻 Author
 
-**Deepak**  
-💻 Java Learner  
-🛡️ Cybersecurity Enthusiast  
-🚀 Problem Solver & Future Software Developer
+**Deepak**
+🎓 B.Sc. Computer Science Student  
+🛡️ Cybersecurity & Ethical Hacking Enthusiast  
+🎤 Public Speaker & Technical Presenter  
+🏆 Inter-College Competition Winner  
+💻 Java Developer & Problem Solver  
+🚀 Building Real-World Projects and Growing in Software Development
