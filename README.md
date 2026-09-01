@@ -1,5 +1,5 @@
 # Java Mini Projects ☕🚀
-
+ 
 A collection of Java console-based mini projects built to strengthen programming fundamentals, logical thinking, and real-world problem-solving skills.
 
 These projects focus on:
